@@ -1,0 +1,35 @@
+XUAN GUO
+CS 5001, FALL 2020
+
+Question 1:
+a) 456
+
+b) 6
+
+c) 236
+
+d) 6
+
+Question 2:
+a)
+World
+
+b)
+Hello
+World
+
+c)
+x = 5
+
+Question 3:
+a) True
+
+b) True
+
+c) False
+
+d) True
+
+e) False
+
+f) True

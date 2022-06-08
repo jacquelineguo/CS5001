@@ -1,0 +1,26 @@
+Question 1:
+a) float
+b) integer
+c) integer
+d) boolean
+e) string
+f) float
+g) string
+h) integer
+
+Question 2:
+a) 1.4
+b) 1.4
+c) 1
+d) 4
+e) 36
+f) 0
+g) red1234
+h) yellowyellow
+
+Question 3:
+Sine hello is a variable, but this variable has not defined. So it cause an error.
+
+Question 4:
+9
+
